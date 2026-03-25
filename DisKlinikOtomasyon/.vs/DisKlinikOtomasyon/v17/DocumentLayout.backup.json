@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772CB441-1F96-4113-969C-D22120A92EA4}|DisKlinik.Hasta.Service\\DisKlinik.Hasta.Service.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.service\\syapayzeka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772CB441-1F96-4113-969C-D22120A92EA4}|DisKlinik.Hasta.Service\\DisKlinik.Hasta.Service.csproj|solutionrelative:disklinik.hasta.service\\syapayzeka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|c:\\users\\fet\u0130 sana\u00E7\\desktop\\disklinikotomasyon\\disklinikotomasyon\\disklinik.hasta.forms\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmrandevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmrandevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmtedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmtedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmyapayzeka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmyapayzeka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmdoktorkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmdoktorkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DisKlinik.Hasta.Forms||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmsplash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmsplash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.forms\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B086E8E-81BD-4325-A915-E9C6B779CD40}|DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj|solutionrelative:disklinik.hasta.forms\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F0FF6-2138-415C-995B-4BEC605A774B}|DisKlinik.Hasta.Interface\\DisKlinik.Hasta.Interface.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.interface\\ihasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9F0FF6-2138-415C-995B-4BEC605A774B}|DisKlinik.Hasta.Interface\\DisKlinik.Hasta.Interface.csproj|solutionrelative:disklinik.hasta.interface\\ihasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E3F0D-30B5-4F87-BB5A-53014F9E62C1}|DisKlinik.Hasta.Business\\DisKlinik.Hasta.Business.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.business\\bhasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E3F0D-30B5-4F87-BB5A-53014F9E62C1}|DisKlinik.Hasta.Business\\DisKlinik.Hasta.Business.csproj|solutionrelative:disklinik.hasta.business\\bhasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E3F0D-30B5-4F87-BB5A-53014F9E62C1}|DisKlinik.Hasta.Business\\DisKlinik.Hasta.Business.csproj|C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\disklinik.hasta.business\\sphasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E3F0D-30B5-4F87-BB5A-53014F9E62C1}|DisKlinik.Hasta.Business\\DisKlinik.Hasta.Business.csproj|solutionrelative:disklinik.hasta.business\\sphasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmGiris.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmGiris.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:53:33.928Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmYonetici.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmYonetici.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmYonetici.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmYonetici.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmYonetici.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:45:52.364Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTedavi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmTedavi.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmTedavi.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmTedavi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmTedavi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:17:56.133Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmRandevu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmRandevu.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmRandevu.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmRandevu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmRandevu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:17:24.636Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOdeme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmOdeme.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmOdeme.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmOdeme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmOdeme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:16:56.923Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmYapayZeka.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmYapayZeka.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmYapayZeka.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmYapayZeka.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmYapayZeka.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:18:11.767Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmYonetici.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmYonetici.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmYonetici.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmYonetici.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmYonetici.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAADgv8YAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:36:04.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:06:10.796Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SYapayZeka.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Service\\SYapayZeka.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Service\\SYapayZeka.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Service\\SYapayZeka.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Service\\SYapayZeka.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:05:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRecete.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmRecete.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmRecete.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmRecete.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmRecete.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:17:44.701Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDoktorKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmDoktorKayit.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmDoktorKayit.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmDoktorKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmDoktorKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:06:08.246Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSplash.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmSplash.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmSplash.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmSplash.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmSplash.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:29:54.191Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmHastaKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:00:45.933Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:51:42.322Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmSplash.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmSplash.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmSplash.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmSplash.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmSplash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:34:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmSplash.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmSplash.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmSplash.Designer.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmSplash.Designer.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmSplash.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:27:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DisKlinik.Hasta.Forms",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\DisKlinik.Hasta.Forms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T17:28:09.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Forms\\FrmAnaSayfa.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAnwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:52:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IHasta.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Interface\\IHasta.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Interface\\IHasta.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Interface\\IHasta.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Interface\\IHasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T11:59:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SpHasta.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Business\\SpHasta.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Business\\SpHasta.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Business\\SpHasta.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Business\\SpHasta.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswIYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T13:14:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BHasta.cs",
+              "DocumentMoniker": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Business\\BHasta.cs",
+              "RelativeDocumentMoniker": "DisKlinik.Hasta.Business\\BHasta.cs",
+              "ToolTip": "C:\\Users\\FET\u0130 SANA\u00C7\\Desktop\\DisKlinikOtomasyon\\DisKlinikOtomasyon\\DisKlinik.Hasta.Business\\BHasta.cs",
+              "RelativeToolTip": "DisKlinik.Hasta.Business\\BHasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:00:35.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

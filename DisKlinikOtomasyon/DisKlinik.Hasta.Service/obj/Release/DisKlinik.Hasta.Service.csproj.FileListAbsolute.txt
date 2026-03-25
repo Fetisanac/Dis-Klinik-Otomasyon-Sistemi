@@ -1,0 +1,12 @@
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\DisKlinik.Hasta.Service.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\DisKlinik.Hasta.Service.pdb
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\DisKlinik.Hasta.Business.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\DisKlinik.Hasta.Interface.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\Newtonsoft.Json.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\DisKlinik.Hasta.Business.pdb
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\bin\Release\DisKlinik.Hasta.Interface.pdb
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\obj\Release\DisKlinik.Hasta.Service.csproj.AssemblyReference.cache
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\obj\Release\DisKlinik.Hasta.Service.csproj.CoreCompileInputs.cache
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\obj\Release\DisKlini.A225F0BB.Up2Date
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\obj\Release\DisKlinik.Hasta.Service.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Service\obj\Release\DisKlinik.Hasta.Service.pdb

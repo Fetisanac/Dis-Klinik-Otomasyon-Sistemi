@@ -1,0 +1,6 @@
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Business\bin\Release\DisKlinik.Hasta.Business.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Business\bin\Release\DisKlinik.Hasta.Business.pdb
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Business\obj\Release\DisKlinik.Hasta.Business.csproj.AssemblyReference.cache
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Business\obj\Release\DisKlinik.Hasta.Business.csproj.CoreCompileInputs.cache
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Business\obj\Release\DisKlinik.Hasta.Business.dll
+C:\Users\FETİ SANAÇ\Desktop\DisKlinikOtomasyon\DisKlinikOtomasyon\DisKlinik.Hasta.Business\obj\Release\DisKlinik.Hasta.Business.pdb
